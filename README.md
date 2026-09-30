@@ -11,3 +11,5 @@ branches, and GitHub.
 ## Documentation
 This section was created on the feature-documentation branch.
 new line is added.
+## Git Workflow
+This section demonstrates branching and merging in Git.
